@@ -11,7 +11,6 @@ This repository contains the 2022 Kaggle Data Science and Machine Learning Surve
 - [Key Findings](#key-findings)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The 2022 Kaggle Data Science and Machine Learning Survey Report aims to provide a comprehensive overview of the data science and machine learning landscape. It covers various aspects such as demographics, education, industry trends, tools, techniques, and more. The report serves as a valuable resource for researchers, practitioners, and enthusiasts in the field.
