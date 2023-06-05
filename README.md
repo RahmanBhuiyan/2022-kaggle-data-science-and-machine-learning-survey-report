@@ -9,6 +9,7 @@ This repository contains the 2022 Kaggle Data Science and Machine Learning Surve
 - [Data](#data)
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
+- [Kaggle Notebook](#kaggle-notebook)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -32,6 +33,9 @@ Some of the key findings from the survey include:
 - Challenges and trends in the field, including ethics and fairness considerations.
 
 The full report provides a detailed analysis and interpretation of these findings.
+
+## Kaggle Notebook
+To access the Kaggle notebook containing the analysis and code used to generate the survey report, please follow this [Kaggle Notebook Link](https://www.kaggle.com/code/rahmanbhuiyan/2022-kaggle-ds-ml-survey).
 
 ## Usage
 The 2022 Kaggle Data Science and Machine Learning Survey Report can be used for various purposes, including:
